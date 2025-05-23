@@ -19,6 +19,7 @@ public class App extends Application {
         launch(args);
     }
     
+    //adding a comment to this file to simulate changes in remote
     @Override
     public void start(Stage stage) throws Exception {
         Group root = new Group();
